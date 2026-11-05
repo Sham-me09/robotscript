@@ -42,3 +42,8 @@ Or just `make run`. Clean with `make clean`.
 
 ## Docs
 Full project report: `docs/RobotScript_Project_Report.docx`
+
+
+## Authors
+- Mhamuda Shafiq Shamme
+- Fariha Nowshin Barisha
