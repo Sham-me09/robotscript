@@ -1,0 +1,7 @@
+robot
+move forward 10
+turn right 90
+move forward 20
+turn left 90
+move backward 5
+stop

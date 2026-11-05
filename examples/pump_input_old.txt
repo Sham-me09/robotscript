@@ -1,0 +1,18 @@
+level 25;
+if (level < 30) pump on;
+else if (level > 90) pump off;
+else pump on;
+
+level 25;
+if (level < 30) pump on;
+
+level 95;
+if (level < 30) pump on;
+else if (level > 90) pump off;
+
+level 50;
+if (level < 30) pump on;
+else if (level > 90) pump off;
+else pump on;
+
+
